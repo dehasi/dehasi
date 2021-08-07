@@ -1,4 +1,4 @@
-## A common sense driven developer
+## Common Sense Driven Developer
 
 <br>
 
