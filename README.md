@@ -1,5 +1,3 @@
-## Science Driven Developer
-
 <br>
 
 <table style="width:100%">
