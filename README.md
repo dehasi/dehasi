@@ -14,3 +14,5 @@ I contributed to:
 * [Spring Cloud Contract](https://github.com/spring-cloud/spring-cloud-contract/commits?author=dehasi)
 * [Flatten Maven Plugin](https://github.com/mojohaus/flatten-maven-plugin/pull/152)
 * [Spotbugs](https://github.com/spotbugs/spotbugs/pulls?q=author%3Adehasi+)
+* [mapstruct](https://github.com/mapstruct/mapstruct/pulls?q=author%3Adehasi)
+  
