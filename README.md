@@ -15,4 +15,10 @@ I contributed to:
 * [Flatten Maven Plugin](https://github.com/mojohaus/flatten-maven-plugin/pull/152)
 * [Spotbugs](https://github.com/spotbugs/spotbugs/pulls?q=author%3Adehasi+)
 * [Mapstruct](https://github.com/mapstruct/mapstruct/pulls?q=author%3Adehasi)
-  
+
+You may be interested in the repositories below if you are already reading my profile:
+
+* [ZeLiba](https://github.com/dehasi/zeliba) fluent API to write comparisons in AssertJ-like style for Java
+* [sniper-auction](https://github.com/dehasi/sniper-auction) implementing book [Growing Object Oriented Software Guided by Tests](http://growing-object-oriented-software.com) in Kotlin
+* [exercises-in-programming-style](https://github.com/dehasi/exercises-in-programming-style) implementing book  [Exercises in Programming Style](https://books.google.nl/books/about/Exercises_in_Programming_Style.html) in Ruby
+* [ppp-of-ddd](https://github.com/dehasi/ppp-of-ddd) implementing book [Principles, Practices and Patterns of Domain-Driven Design](https://www.goodreads.com/en/book/show/25531393) in Java
