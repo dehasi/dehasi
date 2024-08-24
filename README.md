@@ -1,12 +1,5 @@
 <br>
 
-<table style="width:100%">
-  <tr>
-    <th> <img align="center" 
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehasi&hide=html,matlab,tex&layout=compact&count_private=true" /> </th>
-    <th> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dehasi&show_icons=true&count_private=true" /> </th>
-  </tr>
-</table>
 
 I contributed to:
 * [Apache Ignite Machine Learning](https://github.com/apache/ignite/pulls?q=is%3Apr+author%3Adehasi+is%3Aclosed+)
@@ -15,6 +8,7 @@ I contributed to:
 * [Flatten Maven Plugin](https://github.com/mojohaus/flatten-maven-plugin/pull/152)
 * [Spotbugs](https://github.com/spotbugs/spotbugs/pulls?q=author%3Adehasi+)
 * [Mapstruct](https://github.com/mapstruct/mapstruct/pulls?q=author%3Adehasi)
+* [AssertJ](https://github.com/assertj/assertj/pulls?q=author%3Adehasi+)
 
 You may be interested in the repositories below if you are already reading my profile:
 
