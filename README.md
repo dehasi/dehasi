@@ -18,4 +18,4 @@ As you're already viewing my profile, check out the repositories below:
 * [exercises-in-programming-style](https://github.com/dehasi/exercises-in-programming-style) implementing book  [Exercises in Programming Style](https://books.google.nl/books/about/Exercises_in_Programming_Style.html) in Ruby
 * [ppp-of-ddd](https://github.com/dehasi/ppp-of-ddd) implementing book [Principles, Practices and Patterns of Domain-Driven Design](https://www.goodreads.com/en/book/show/25531393) in Java
 * [software-tools-in-go](https://github.com/dehasi/software-tools-in-go) implementing book [Software Tools in Pascal](https://www.goodreads.com/en/book/show/515602) in Go
-* [understanding-computation-ts](https://github.com/dehasi/understanding-computation-ts) implementing book [Understanding Computation](https://computationbook.com) in TypeSctipt
+* [understanding-computation-ts](https://github.com/dehasi/understanding-computation-ts) implementing book [Understanding Computation](https://computationbook.com) in TypeSctipt (in progress)
