@@ -14,6 +14,10 @@ As you're already viewing my profile, check out the repositories below:
 
 * [zeliba](https://github.com/dehasi/zeliba) fluent API to write comparisons in AssertJ-like style for Java
 * [jenkins-pipeline-linter-gradle-plugin](https://github.com/dehasi/jenkins-pipeline-linter-gradle-plugin) plugin to validate pipelines based on Jenkins [linter](https://www.jenkins.io/doc/book/pipeline/development/#linter)
+* [raftr](https://github.com/dehasi/raftr) my implementation of RAFT algorithm
+* [bitcask](https://github.com/dehasi/bitcask) my implementation of bitcask (in progress)
+
+ 
 * [sniper-auction](https://github.com/dehasi/sniper-auction) implementing book [Growing Object Oriented Software Guided by Tests](http://growing-object-oriented-software.com) in Kotlin
 * [exercises-in-programming-style](https://github.com/dehasi/exercises-in-programming-style) implementing book  [Exercises in Programming Style](https://books.google.nl/books/about/Exercises_in_Programming_Style.html) in Ruby
 * [ppp-of-ddd](https://github.com/dehasi/ppp-of-ddd) implementing book [Principles, Practices and Patterns of Domain-Driven Design](https://www.goodreads.com/en/book/show/25531393) in Java
